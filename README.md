@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/fs68rohd6x579po9?svg=true)](https://ci.appveyor.com/project/PavelBarashkov/ajshomeworks-arraybuffer-arraybuffer)
